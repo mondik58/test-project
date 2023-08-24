@@ -1,7 +1,6 @@
 import { Navbar, Button } from 'react-bootstrap';
 import { Link, useLocation } from 'react-router-dom';
 import Logo from '../assets/Logo.svg';
-import toaster from './Toaster';
 import { useState } from 'react';
 import Toaster from './Toaster';
 
